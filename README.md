@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Mobile Development<br>💬 Ask me about anything!
+🌱 I’m currently learning Angular<br>💬 Ask me about anything!
 
 
 ## 🌐 Socials:
