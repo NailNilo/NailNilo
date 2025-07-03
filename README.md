@@ -1,5 +1,6 @@
 # 💫 About Me:
-🌱 I’m currently learning Angular<br>💬 Ask me about anything!
+Hi, am Nail, a full stack software engineer.
+🌱 I’m currently learning React<br>💬 Ask me about anything!
 
 
 ## 🌐 Socials:
