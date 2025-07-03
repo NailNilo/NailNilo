@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, am Nail, a full stack software engineer.
+Hi, am Nail, a full stack software engineer. <br>
 🌱 I’m currently learning React<br>💬 Ask me about anything!
 
 
